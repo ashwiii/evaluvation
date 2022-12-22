@@ -36,4 +36,24 @@ hr{
     height: 90%;
     width: 90%;
 }
+.ns{
+    position: relative;
+    animation-name: example;
+  animation-duration: 3s;  
+  animation-fill-mode: forwards;
+}
+@keyframes example {
+    from {top: 200px;}
+    to {top: 0px;}
+  }
 
+  .sn{
+    position: relative;
+    animation-name: example1;
+  animation-duration: 3s;  
+  animation-fill-mode: forwards; 
+  }
+  @keyframes example1 {
+    from {bottom: 200px;}
+    to {bottom: 0px;}
+  }
