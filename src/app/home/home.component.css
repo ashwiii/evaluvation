@@ -27,7 +27,8 @@ hr{
     border-top: none;
     border-left: none;
     border-right: none;
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
+    border-radius: 0px;
 }
 .w3{
     color: aqua;
@@ -57,3 +58,11 @@ hr{
     from {bottom: 200px;}
     to {bottom: 0px;}
   }
+.sw1{
+    background-image: url("https://i.postimg.cc/XYRzg0Cs/image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position:relative;
+    background-size: 100% 100%;    /* padding-top: 100px; */
+}
