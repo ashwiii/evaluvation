@@ -1,0 +1,39 @@
+hr{
+    border: 2px solid black;
+}
+.w1{
+    font-weight: bolder;
+    text-align: center;
+}
+.w2{
+    justify-content: center;
+}
+.rr{
+    font-size: small;
+}
+/* .dd{
+    text-decoration: 1px underline;
+} */
+.card-img-top{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.a1{
+    font-weight: bold;
+}
+.card{
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid black;
+}
+.w3{
+    color: aqua;
+}
+.k3{
+    height: 90%;
+    width: 90%;
+}
+
